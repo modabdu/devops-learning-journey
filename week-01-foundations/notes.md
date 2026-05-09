@@ -1,5 +1,4 @@
-cd ~/devops-learning-journey
-cat > week-01-foundations/notes.md << 'EOF'
+
 # Week 1 - Foundations
 
 ## Completed Sections
